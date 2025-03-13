@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Agent-Class: com.heller.rt.demo.TestAgent
-Created-By: heller
-Can-Redefine-Classes: true
-Can-Retransform-Classes: true
-Boot-Class-Path: javassist-3.23.1-GA.jar
